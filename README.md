@@ -6,6 +6,8 @@ Join the discord here! - https://discord.gg/mhfg
 
 ------------------------------------------------------------------------
 
+# Completed:
+
 mhl_translatedhostpatch.dll:
 
 The English Patched launcher with the Network address pointers modified to the Forward Fivers Monster Hunter Frontier Server address. This faciliates setup as no hosts file setup would be required from the User's side.
@@ -24,3 +26,16 @@ The English Patched launcher with the Network address pointers patch (mentioned 
 Same as above, but for the original Japanese Launcher. 
 
 ------------------------------------------------------------------------
+
+# WIP:
+
+G1 Launcher graphics/UX
+
+Planned features:
+-Button that links to progression guide
+-Discord server join button
+-Server status
+
+Current Wireframe:
+
+<img width="792" height="588" alt="image" src="https://github.com/user-attachments/assets/40105505-f8f6-49cc-9c68-e8b8c497be62" />
