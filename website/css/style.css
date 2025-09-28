@@ -1,0 +1,20 @@
+@charset "Shift_JIS";
+html {
+	background: #000;
+}
+
+body {
+	background: #000 url(../images/bg_body.jpg) center top no-repeat;
+	color: #333;
+	font-size: 12px;
+	line-height: 1.2;
+    margin: 0;
+    transform: scaleX(-1);
+}
+
+#contents .inner {
+	position: relative;
+	min-height: 170px;
+	margin: 0;
+	padding: 40px 0 0;
+}
